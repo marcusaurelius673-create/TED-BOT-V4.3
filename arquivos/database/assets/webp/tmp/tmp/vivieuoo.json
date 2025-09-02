@@ -1,0 +1,22 @@
+[
+  {
+    "numero": "559992241471@s.whatsapp.net",
+    "nome": "Ted </>",
+    "compras": [
+      {
+        "valor": 1,
+        "descricao": "Pagamento de R$ 1.00",
+        "idTransacao": 123470266293,
+        "status": "approved",
+        "data": "2025-08-28T18:21:09.655Z"
+      },
+      {
+        "valor": 1,
+        "descricao": "Pagamento de R$ 1.00",
+        "idTransacao": 124010784518,
+        "status": "approved",
+        "data": "2025-08-28T18:27:02.544Z"
+      }
+    ]
+  }
+]
